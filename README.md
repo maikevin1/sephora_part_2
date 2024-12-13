@@ -1,1 +1,1 @@
-# sephora_part_2
+This is the EDA final, sephora part 2.
